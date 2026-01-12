@@ -27,9 +27,7 @@ public class BankAccount {
     }
 
     public void showInfo(){
-        System.out.println("Owner: " + owner + "\n" +"Your current balance is: " + balance);
-    } 
+        System.out.println("Owner: " + owner + "\n" + "Your current balance is: " + balance);
+    }
 
-
-    
 }
