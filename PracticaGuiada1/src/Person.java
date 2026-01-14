@@ -3,7 +3,6 @@ public class Person {
     private String name;
     private int age;
     private PetManager manager;
-    public Object getManager;
 
     public Person(String name, int age, PetManager manager){
         this.name = name;

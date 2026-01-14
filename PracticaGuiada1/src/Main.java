@@ -6,9 +6,14 @@ public class Main {
         Pet[] pets = new Pet[3];
         PetManager manager = new PetManager(pets);
         Person person = new Person("Pablo", 18, manager);
-        person.addPet(new Pet("Rafa", "Perro"));
-         person.addPet(new Pet("Keylor", "Gato"));
-          person.addPet(new Pet("Fausto", "oso panda"));
+        
+        if (person.addPet(new Pet("Rafa", "Perro")) &&
+        person.addPet(new Pet("Keylor", "Gato")) &&
+        person.addPet(new Pet("Fausto", "oso panda"))) {
+            IOManager.printMessage("Pets added succesfully");
+        } else{
+            IOManager.printMessage("Failed to add pets");
+        }
 
         for (Pet pet : person.getManager().getPets()) {
             IOManager.printMessage((pet.getPetName()));       
