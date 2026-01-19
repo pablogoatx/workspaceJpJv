@@ -41,5 +41,17 @@ public class Person {
         return manager.addPet(pet);
     }
 
+    public boolean removePet(Pet pet){
+        return manager.removePet(pet);
+    }
+    
+    public Pet[] getPets(){
+        return manager.getPets();
+    }
+
+    public boolean updatePets(Pet pet, int index){
+        return manager.updatePets(pet, index);
+    }
+
 
 }
