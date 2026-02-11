@@ -34,12 +34,12 @@ export default function ProfileCard({ profile }: ProfileCardProps) {
           <div className="mt-4 flex items-center gap-2 text-gray-600">
             <i className="fa fa-instagram text-pink-500"></i>
             <a
-              href={`https://instagram.com/${"Instagram"}`}
+              href={`https://instagram.com/${socialLinks.instagram}`}
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline"
             >
-              @{socialLinks.instagram}
+              @{"instagram"}
             </a>
           </div>
         )}
