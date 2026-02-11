@@ -7,7 +7,6 @@ public class Pet {
         this.petName = petName;
         this.type = type;
     }
-    
 
     public void setPetName(String petName) {
         this.petName = petName;

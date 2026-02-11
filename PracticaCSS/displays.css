@@ -1,0 +1,17 @@
+.inline{
+    display: none;
+}
+
+.padre{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;    
+}
+
+.padreDos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;                        
+}

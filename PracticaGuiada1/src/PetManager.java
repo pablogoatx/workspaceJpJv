@@ -1,5 +1,5 @@
 public class PetManager {
-    
+
     private int size;
     private Pet[] pets;
 
@@ -40,7 +40,6 @@ public class PetManager {
     }
 
     public boolean removePet(Pet pet){
-
         for (int i = 0; i < pets.length; i++) {
             if (pets[i] != null && pets[i].equals(pet)) {
                 for (int j = i; j < pets.length -1; j++) {

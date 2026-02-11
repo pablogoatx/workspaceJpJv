@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Dragon Ball Super: Broly",
+    "description": "Goku y Vegeta enfrentan al poderoso saiyajin Broly en una batalla que supera todos los límites.",
+    "image": "https://image.tmdb.org/t/p/w500/f03YksE4NggUjG75toz4H1YAGRf.jpg",
+    "director": "Tatsuya Nagamine",
+    "duracion": "100 min",
+    "rating": 8.2,
+    "genre": "Anime/Action"
+  },
+  {
+    "id": "2",
+    "title": "Dragon Ball Z: Battle of Gods",
+    "description": "Bills, el Dios de la Destrucción, despierta y busca al legendario Super Saiyajin Dios.",
+    "image": "https://image.tmdb.org/t/p/original/h1BOOadul9nJzuCnryctYmRPiJE.jpg",
+    "director": "Masahiro Hosoda",
+    "duracion": "105 min",
+    "rating": 7.2,
+    "genre": "Anime/Action"
+  },
+  {
+    "id": "3",
+    "title": "Naruto Shippuden the Movie: Road to Ninja",
+    "description": "Naruto y Sakura son transportados a una realidad alternativa donde todo es diferente.",
+    "image": "https://image.tmdb.org/t/p/original/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg",
+    "director": "Hayato Date",
+    "duracion": "109 min",
+    "rating": 7.6,
+    "genre": "Anime/Adventure"
+  },
+  {
+    "id": "4",
+    "title": "The Last: Naruto the Movie",
+    "description": "Naruto debe salvar la Tierra cuando la luna comienza a acercarse peligrosamente.",
+    "image": "https://image.tmdb.org/t/p/w500/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg",
+    "director": "Tsuneo Kobayashi",
+    "duracion": "112 min",
+    "rating": 7.8,
+    "genre": "Anime/Romance"
+  },
+  {
+    "id": "5",
+    "title": "Bleach: Hell Verse",
+    "description": "Ichigo desciende al Infierno para rescatar a su hermana y enfrentar nuevas amenazas.",
+    "image": "https://www.themoviedb.org/t/p/original/34iZP1p6eHkPVzTpJLnPvlEoxZH.jpg",
+    "director": "Noriyuki Abe",
+    "duracion": "94 min",
+    "rating": 7.4,
+    "genre": "Anime/Action"
+  },
+  {
+    "id": "6",
+    "title": "Bleach: Fade to Black",
+    "description": "Rukia desaparece misteriosamente y nadie parece recordarla, excepto Ichigo.",
+    "image": "https://eiga.k-img.com/images/movie/53805/photo/3998f538c486051d.jpg?1469165932",
+    "director": "Noriyuki Abe",
+    "duracion": "94 min",
+    "rating": 7.3,
+    "genre": "Anime/Action"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "1",
+  "fullName": "Juan Pablo Jimenez",
+  "nickname": "Pablogoatx",
+  "bio": "Costa Rica",
+  "profileImage": "https://pbs.twimg.com/media/E6sPaPVX0AMyx1-.jpg",
+  "favoriteMovies": ["Dragon Ball Super: Broly", "Naruto Shippuden the Movie: Road to Ninja"],
+  "socialLinks": {
+    "instagram": "https://www.instagram.com/pablogoatx/"
+  }
+}

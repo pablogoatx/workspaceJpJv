@@ -11,7 +11,6 @@ public class Main {
         Pet pet3 = new Pet("Fausto", "oso panda");
         Pet pet4 = new Pet("Diego", "tiburon");
 
-
         if (person.addPet(pet1) &&
         person.addPet(pet2) &&
         person.addPet(pet3)) {
@@ -39,5 +38,6 @@ public class Main {
                 IOManager.printMessage(pet.getPetName());
             }
         }
+
     }
 }

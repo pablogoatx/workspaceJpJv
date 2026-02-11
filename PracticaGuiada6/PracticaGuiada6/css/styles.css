@@ -1,0 +1,37 @@
+h1 {
+  color: green;
+}
+
+.miClase {
+    font-size: 20px;
+    font-style: italic;
+    color: blueviolet;
+}
+
+#nombre {
+    color: red;
+    text-align: center;   
+    font-style: italic;
+}
+
+[type = password] {
+    border: 2px solid blue;
+}
+
+a {
+    text-transform: uppercase;
+}
+
+footer a {
+    text-transform: lowercase;
+}
+
+a.test{
+    color: red;
+}
+
+.caja{
+    width: 200px;
+    height: 200px;
+    background-color: powderblue;
+}

@@ -1,0 +1,11 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+
+@font-face {
+  font-family: "MiFuente";
+  src: url(MinecraftTen-VGORe.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

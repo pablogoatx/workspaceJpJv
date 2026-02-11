@@ -1,0 +1,21 @@
+p{
+    color: red;
+}
+
+#id-selector{
+    color: green;
+}
+
+li[value="4"] {
+    color: blue;
+}
+
+*{
+    text-align: center;
+}
+
+.nota{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+}

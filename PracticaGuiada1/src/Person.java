@@ -7,7 +7,6 @@ public class Person {
     public Person(String name, int age, PetManager manager){
         this.name = name;
         this.age = age;
-
         this.manager = manager;
     }
 
@@ -18,7 +17,6 @@ public class Person {
     public void setName(String name) {
         this.name = name;
     }
-
     
     public int getAge() {
         return age;
@@ -36,7 +34,6 @@ public class Person {
         this.manager = manager;
     }
 
-
     public boolean addPet(Pet pet){
         return manager.addPet(pet);
     }
@@ -52,6 +49,4 @@ public class Person {
     public boolean updatePets(Pet pet, int index){
         return manager.updatePets(pet, index);
     }
-
-
 }
